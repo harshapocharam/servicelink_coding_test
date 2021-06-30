@@ -1,0 +1,30 @@
+td:hover{
+    cursor:move;
+}
+body {
+    background-color: #eaeef5;
+}
+/* Header Styles*/
+
+.userDropdown > button {
+    background: none;
+    color: #fff;
+}
+.userDropdown .dropdown-menu.show {
+    right: 0px;
+    left: auto;
+}
+.tableContainer {
+    box-shadow: 0 1px 3px 0 rgba(10, 54, 69, 0.16);
+    background: #fff;
+}
+.sequence {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background: #98cb65;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding-bottom: 1px;
+}
